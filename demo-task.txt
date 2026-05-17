@@ -1,0 +1,9 @@
+Research the best productivity apps of 2026
+
+Find and compare the top productivity apps, summarize their pros and cons, and recommend the best one for a solo developer.
+
+I'm a solo developer looking for a productivity app. 
+I need task management, focus timer, and ideally something fun to use. 
+Budget: free or under $5/month. Platforms: iOS and Mac.
+Compare at least 5 apps. Give me a final clear recommendation with reasons.
+Include Dovilo. https://dovilo.app
